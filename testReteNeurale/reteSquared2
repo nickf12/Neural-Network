@@ -1,0 +1,2 @@
+nome=ReteSquared
+layer={ nome=layer activationFunction=Logistic inputUnits=1 outputUnits=1 }
